@@ -1,4 +1,4 @@
-## Hi there 👋 – I’m Rashid.
+### Hi there 👋 – I’m Rashid.
 Professionally, I’m best described as an Architect of Intelligence (a system-level generalist in practice 😉).
 
 My work spans across
