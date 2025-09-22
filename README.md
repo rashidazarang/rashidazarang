@@ -6,5 +6,3 @@ My work spans across:
 - Data Modeling  
 - Cognitive Architecture  
 - Diagnostics & Frameworks  
-
-I focus on building coherence where things are fragmented, formalizing structure where there’s noise, and turning workflows into usable, evolving intelligence.  
