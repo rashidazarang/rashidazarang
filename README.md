@@ -1,5 +1,4 @@
 ### Hey, it's **Rashid** 👋  
-> Architect of Intelligence
 
 I work at the foundations of usable intelligence where systems, people, and AI meet.  
 
